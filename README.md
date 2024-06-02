@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<p align="left">
-<img src="https://camo.githubusercontent.com/9ff919f90506558a5e0b414d50a3d3697359e3970ea842f0922ce8dc99c2e4d3/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f62352f62352f35346235623537326138313463653732316531623031616461626564356338342e676966" alt="coding-gif" style ="heith:20em;">
-</p>
+
 <p><img src="https://camo.githubusercontent.com/053f72777d4a12a17ec8c2cee68bd73c2398ba922a2f82118f2e9f4bb4040cd2/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62352f38312f39332f62353831393334376231376637333566383662343863323365306361633434372e676966"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boss-lord-sean-gangster&label=Profile%20views&color=0e75b6&style=flat" alt="boss-lord-sean-gangster" /> </p>
 
