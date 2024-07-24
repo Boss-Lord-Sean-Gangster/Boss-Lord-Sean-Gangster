@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer dealing with Errors</h3>
 
 <p><img src="https://camo.githubusercontent.com/053f72777d4a12a17ec8c2cee68bd73c2398ba922a2f82118f2e9f4bb4040cd2/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62352f38312f39332f62353831393334376231376637333566383662343863323365306361633434372e676966"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boss-lord-sean-gangster&label=Profile%20views&color=0e75b6&style=flat" alt="boss-lord-sean-gangster" /> </p>
 
-- 🔭 I’m currently working on **CryptCrud**
+- 🔭 I’m currently working on **Ayojan**
 
-- 🌱 I’m currently learning **Angular, Vue, DevOps**
+- 🌱 I’m currently learning **Redis,DevOps,Laravel**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nikhil-sharma.netlify.app/](https://portfolio-nikhil-sharma.netlify.app/)
 
-- 💬 Ask me about **React, MERN, Javascript, Python**
+- 💬 Ask me about **React, MERN, Javascript, Python,Nextjs**
 
 - 📫 How to reach me **nicks14368@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c0rcNX6tiPXv5MC1dXTabXl-i0T2e7Ts/view?usp=sharing](https://drive.google.com/file/d/1c0rcNX6tiPXv5MC1dXTabXl-i0T2e7Ts/view?usp=sharing)
 
-- ⚡ Fun fact **I am good at gaming and coding.**
+- ⚡ Fun fact **I am good at gaming and coding and I hate coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
