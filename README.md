@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nicks14368@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c0rcNX6tiPXv5MC1dXTabXl-i0T2e7Ts/view?usp=sharing](https://drive.google.com/file/d/1c0rcNX6tiPXv5MC1dXTabXl-i0T2e7Ts/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/11_9SKkTtiLJFFLvu1BfRxC8XKqRKbog5/view?usp=sharing)
 
 - ⚡ Fun fact **I am good at gaming and coding and I hate coffee.**
 
