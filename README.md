@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boss-lord-sean-gangster" alt="boss-lord-sean-gangster" /></a> </p>
 
-- 🔭 I’m currently working on **Ayojan**
+- 🔭 I’m currently working on **Redifined**
 
-- 🌱 I’m currently learning **Redis, Laravel, DevOps**
+- 🌱 I’m currently learning **Kubernetes, Kafka, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nikhil-sharma.netlify.app/](https://portfolio-nikhil-sharma.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-nikhil-sharma.netlify.app/)
 
-- 💬 Ask me about **React, MERN, Javascript, Python, Next.js**
+- 💬 Ask me about **MERN, Javascript, Python, Next.js, DevOps**
 
 - 📫 How to reach me **nicks14368@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/11_9SKkTtiLJFFLvu1BfRxC8XKqRKbog5/view?usp=sharing)
 
-- ⚡ Fun fact **I am good at gaming and coding and I hate coffee.**
+- ⚡ Fun fact **I am good at gaming and coding and I love coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
